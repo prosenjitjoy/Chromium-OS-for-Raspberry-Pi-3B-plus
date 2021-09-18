@@ -1,0 +1,3 @@
+chromeos-base/vpd::chromiumos
+chromeos-base/chromeos-installer::chromiumos
+chromeos-base/vpd::patches
