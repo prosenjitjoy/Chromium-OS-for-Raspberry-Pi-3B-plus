@@ -19,7 +19,3 @@ git clone https://github.com/csjoy/Chromium-OS-for-Raspberry-Pi-3B-plus.git .
 cp -r * ~/chromiumos/src/overlays
 ```
 Then follow the rest of the guide using rpi3 as the board name.
-```shell
-(inside) export BOARD=rpi3
-```
-
